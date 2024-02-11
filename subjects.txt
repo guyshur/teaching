@@ -1,0 +1,11 @@
+List of subjects to be covered
+- printing
+- basic variables: int, float, bool, string
+- basic operators: +, -, *, /, %, **, //, +=, -=, *=, /=
+- basic data structures: list, tuple, set, dictionary
+- basic control structures: if, elif, else, for, while
+- functions
+- modules
+- importing
+- file I/O
+
